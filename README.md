@@ -13,4 +13,5 @@ Create a visualization that provides a break down between the male and female em
 - Data Visualization in Tableau
 - Final Touches
   # Dashboard
- 
+ <img width="555" alt="Screenshot 2024-10-25 103559" src="https://github.com/user-attachments/assets/acb231a3-75af-4317-8c8e-73593b1b1288">
+
