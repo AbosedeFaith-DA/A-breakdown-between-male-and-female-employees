@@ -6,13 +6,14 @@ This project visualizes the annual breakdown of male and female employees in the
 # #Question
 Create a visualization that provides a break down between the male and female employers working in the company each year, stating from 1990.
 
-- Dashboard interaction <a href="https://github.com/Adebamiji1/Tableau-Dashboard/blob/main/Screenshot%202024-10-25%20103559.png">View Dashboard</a>
+- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/A-breakdown-between-male-and-female-employees/blob/main/Screenshot%202024-10-29%20115915.png">View Dashboard</a>
 
 # Process
 - Data Extraction with SQL
 - Data Visualization in Tableau
 - Final Touches
   # Dashboard
- ![Screenshot 2024-10-29 115915](https://github.com/user-attachments/assets/9060a9af-b0a1-4b0a-9216-cae4135a6630)
+ ![Screenshot 2024-10-29 115915](https://github.com/user-attachments/assets/8e161385-f395-40c6-b8cb-a5cda3b6914d)
+
 
 
